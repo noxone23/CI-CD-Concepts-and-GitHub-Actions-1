@@ -47,3 +47,5 @@ Install the dependencies with `npm i` first (Node.js 22.22 or newer is required)
 - `npm run check` checks the types (`tsc --noEmit`)
 - `npm run build` compiles the project to `dist`
 - `npm run coverage` runs the tests with a coverage report
+
+CI Test
