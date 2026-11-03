@@ -6,5 +6,5 @@ test("counts the words of a text", () => {
 });
 
 test("returns 0 for an empty text", () => {
-  expect(countWords("   ")).toBe(1);
+  expect(countWords("   ")).toBe(0);
 });
