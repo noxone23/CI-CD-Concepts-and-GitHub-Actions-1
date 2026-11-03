@@ -1,3 +1,5 @@
+[![CI](https://github.com/noxone23/CI-CD-Concepts-and-GitHub-Actions-1/actions/workflows/ci.yml/badge.svg)](https://github.com/noxone23/CI-CD-Concepts-and-GitHub-Actions-1/actions/workflows/ci.yml)
+
 # Write a Workflow
 
 (difficulty: 🔥)
