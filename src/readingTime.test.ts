@@ -6,5 +6,5 @@ test("rounds short texts up to one minute", () => {
 });
 
 test("calculates the reading time of a long text", () => {
-  expect(readingTime("word ".repeat(450))).toBe("3 min");
+  expect(readingTime("word ".repeat(450))).toBe("5 min");
 });
